@@ -1,1 +1,5 @@
 require 'users.schema.rb'
+require 'categories.schema.rb'
+require 'challenges.schema.rb'
+require 'results.schema.rb'
+require 'courses.schema.rb'
